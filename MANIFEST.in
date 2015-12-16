@@ -1,0 +1,3 @@
+recursive-include get_zipcode_from_gmap *
+exclude .git .svn
+include LICENSE README.md
